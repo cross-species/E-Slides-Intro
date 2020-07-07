@@ -44,16 +44,16 @@ cd xlab-website
 ```
 *Note:*
 
-We assume you are looking for the `master` module so you can make your own submodule.
+We assume you are looking for the `master` and `feature/PRbranch` module so you can make your own submodule.
 
 Make your own submodule, modify it, and merge it into `master`:
 
 ```bash
 git checkout -b members/<yourname>_branch
-# do something
+# ...
 ```
 
-**IMPORTANT: `feature/PRbranch` is our Pull Request branch.** You edit `feature/PRbranch` branch only if you want to raise a pull request to [X-lab](https://github.com/X-lab2017/xlab-website).
+**IMPORTANT: `feature/PRbranch` is our Pull Request branch.** You edit `feature/PRbranch` branch only if you want to raise a pull request to [X-lab](https://github.com/X-lab2017/xlab-website).  We suggest you make 2 submodule for both master branch and pull request alternative branch.
 
 You should update all the submodules:
 
