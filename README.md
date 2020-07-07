@@ -8,6 +8,8 @@ The code are mainly based on [X-lab website](https://github.com/X-lab2017/xlab-w
 - Hongjia Zou([Wheelsmuggler](https://github.com/Wheelsmuggler))
 - Shuang Wu([Yoyo Wu](https://github.com/orgs/cross-species/people/1054096100))
 
+(*Note: 吴双的英语，不行；邹鸿嘉的英语，行！我们邹哥哥的代码能力真的——太——好——了——*)
+
 ## Description
 
 全流程在线协作打造现代化CMS系统
@@ -37,19 +39,22 @@ Steps:
 
 1. Clone this project & get into it
 ```bash
-git clone https://github.com/cross-species/pj2.git
-cd pj2
+git clone https://github.com/cross-species/xlab-website.git
+cd xlab-website
 ```
 *Note:*
+
 We assume you are looking for the `master` module so you can make your own submodule.
+
 If not, update all the submodules:
+
 ```bash
 git submodule update --init --recursive
 ```
 
 2. Install the theme and run the server:
 ```bash
-# Since we have removed the academic theme for `git commit` but hugo needs theme, we need to reinstall it.
+# We have removed the academic theme for `git commit` but `hugo` needs theme. So we need to reinstall it.
 git clone https://github.com/gcushen/hugo-academic.git themes/academic
 hugo server
 ```
