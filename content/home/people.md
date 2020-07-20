@@ -13,12 +13,9 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Faculty",
-                 "PhD",
-                 "Master",
-                 "Undergraduate",
-                 "Visiting student",
-                 "Alumni"]
+  user_groups = ["2016",
+                 "2017",
+                 "2018"]
 
 [design]
   # Show user's social networking links? (true/false)
@@ -34,14 +31,14 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  # color = "#4f4170"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "#4f4e70"
+  gradient_end = "#ffffff"
   
   # Background image.
-   image = "background.jpg"  # Name of image in `static/img/`.
+   # image = "background.jpg"  # Name of image in `static/img/`.
    image_darken = 0.75  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
