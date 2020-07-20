@@ -1,10 +1,10 @@
 ---
 # Display name
-title: X-Lab
+title: E-slides
 
 # Username (this should match the folder name)
 authors:
-- x-lab
+- e-slides
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,8 +14,6 @@ role: 技术传播文明，践行同步世界
 
 # Organizations/Affiliations
 organizations:
-- name: Tongji University
-  url: "http://www.tongji.edu.cn/"
 - name: East China Normal University
   url: "http://www.ecnu.edu.cn/"
 
@@ -46,15 +44,15 @@ education[]:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-# link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-# link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+# # link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+# # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/X-lab2017
@@ -65,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "wwang@dase.ecnu.edu.cn"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,7 +71,12 @@ user_groups:
 - admin
 ---
 
-**X-Lab** is a combination of two leading and pioneering laboratories from **computer science** and **data science and engineering** respectively in Tongji University (同济大学) and East China Normal University (华东师范大学).The lab is supported by a number of core members, including doctorial supervisors, Ph.D students, master students and undergraduate students.
+**E-slides**的目标是制作一个课件生成器, 主要以解决教师在完成课件的过程中所遇到的排版操作重复,调整知识内容不方便等问题. 基本的功能有展现教学过程中核心的逻辑思维和内容, 页面之间的跳转以及链接,云端存储等. 支持markdown 格式文件到pdf格式文件的转换, 同时也支持在线课件的编辑、演示以及文件的下载.
+
+项目原型初步设计将以网页的形式展现, 用户访问指定网页客户端,在上面选定心仪的模版,并传入自己的markdown文件或是在线编辑, 即可得到对应服务器端生成的pdf课件.
+
+
+<!-- **X-Lab** is a combination of two leading and pioneering laboratories from **computer science** and **data science and engineering** respectively in Tongji University (同济大学) and East China Normal University (华东师范大学).The lab is supported by a number of core members, including doctorial supervisors, Ph.D students, master students and undergraduate students.
 
 **X-Lab** is an intercross multi-discipline, cutting-edge research lab which focuses on the following research domains: **Cloud Computing, Big Data, Data Intelligence,** and **Education Science & Technology**.
 
@@ -86,4 +89,4 @@ With regard to the lab culture, we keep all along holding the several opinions b
 
 Your attention to our lab would be highly appreciated. It’s not only our pursuit but also our faith endeavoring to build a harmonious team with a strong sense of belonging: mentors and students like one family!
 
-<font color='orangered'>* We are always looking for highly-motivated students to work with us on the exciting area of computer science. If you are interested, please contact us by email.</font>
+<font color='orangered'>* We are always looking for highly-motivated students to work with us on the exciting area of computer science. If you are interested, please contact us by email.</font> -->
