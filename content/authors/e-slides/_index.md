@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Github Organization
+role: "跨物种开发"
 
 # Organizations/Affiliations
 organizations:
