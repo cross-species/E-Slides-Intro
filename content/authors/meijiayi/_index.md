@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2017
+role: undergraduate
 
 # Organizations/Affiliations
 organizations:
