@@ -20,14 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 技术传播文明，践行同步世界
 
-interests[]:
-- Advocating lofty academic feelings and technical feelings!
-- Encourage highly respected, open and innovative geek culture!
-- Rejecting the “sophisticated egoism”!
-- Adhering to the “open”, “equal”, ”positive”, ”mutual respect”, “mutual support” culture!
-- Stay hungry, stay foolish
+interests:
+- Computer Vision
+- Artificial Intelligence in Education
 
-education[]:
+education:
   courses:
   - course: BEng in Data Science and Engineering
     institution: East China Normal University
@@ -38,15 +35,15 @@ education[]:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/X-lab2017
@@ -66,4 +63,4 @@ user_groups:
 ---
 
 
-wtf
+来啦老弟~
