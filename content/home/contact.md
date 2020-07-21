@@ -27,7 +27,7 @@ email_form = 0
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FED2CE"
+  gradient_start = "#66C293"
   gradient_end = "#ffffff"
   
   # Background image.
