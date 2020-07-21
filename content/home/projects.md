@@ -26,8 +26,8 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Big Data"
-     tag = "Big Data"
+     name = "Design Thinking"
+     tag = "design thinking"
   
    [[content.filter_button]]
      name = "Cloud Computing"
