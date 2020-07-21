@@ -18,10 +18,11 @@ organizations:
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 技术传播文明，践行同步世界
+bio: 爱护身体，好好睡觉
 
 interests:
 - Computer Vision
+- Art Automation
 - Artificial Intelligence in Education
 
 education:

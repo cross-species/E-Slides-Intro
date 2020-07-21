@@ -51,6 +51,7 @@ subtitle = ""
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
 
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -61,19 +62,19 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4BC37C"
-  gradient_end = "#F1DD61"
+  gradient_start = "#405672"
+  gradient_end = "#40585D"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  text_color_light = true  
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = ".content.filter_button{color: #555555 !important; background-color:#111111}"
  
  # CSS class.
  css_class = ""
