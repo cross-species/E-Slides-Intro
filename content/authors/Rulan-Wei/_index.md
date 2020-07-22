@@ -22,15 +22,15 @@ bio: with lots of hair.
 
 # List each interest with a dash
 interests:
-- 学习
-- 吃饭
-- 睡觉
+- Music
+- Food
+- Sleeping
 
 education:
   courses:
-  - course: 设计思维
-    institution: East China Normal University 
-    year: 2020
+  - course: BEng in Data Science anf Engineering
+    institution: East China Normal University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
