@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Wangyiming"
+title: 王艺鸣
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -22,8 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- 书法
+- 滑板
+- 跳舞
 
 education:
   courses:
@@ -63,6 +64,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- 2018
 ---
