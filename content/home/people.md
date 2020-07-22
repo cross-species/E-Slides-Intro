@@ -15,7 +15,7 @@ subtitle = ""
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["2016",
                  "2017",
-                 "2018"]
+                 "2019"]
 
 [design]
   # Show user's social networking links? (true/false)
@@ -29,14 +29,14 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-  
+
   # Background color.
   # color = "#4f4170"
-  
+
   # Background gradient.
   gradient_start = "#4f4e70"
   gradient_end = "#405672"
-  
+
   # Background image.
    # image = "background.jpg"  # Name of image in `static/img/`.
    image_darken = 0.75  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -46,11 +46,12 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
    text_color_light = true  
-  
+
 [advanced]
  # Custom CSS. 
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
+
 +++
