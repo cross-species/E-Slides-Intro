@@ -11,7 +11,7 @@ The code are mainly based on [X-lab website](https://github.com/X-lab2017/xlab-w
 - 魏如蓝([RulanWei](https://github.com/orgs/cross-species/people/RulanWei))
 - 王艺鸣([yiqingmo](https://github.com/orgs/cross-species/people/yiqingmo))
 
-(*Note: 吴双的英语，不行；邹鸿嘉的英语，行！我们邹哥哥的代码能力真的——太——好——了——*)
+(*Note: 吴双的英语，不行；邹弘嘉的英语，行！我们邹哥哥的代码能力真的——太——好——了——*)
 
 ## Description
 
