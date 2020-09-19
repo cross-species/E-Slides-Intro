@@ -5,7 +5,7 @@ The code are mainly based on [X-lab website](https://github.com/X-lab2017/xlab-w
 ## Member
 
 - 梅佳奕([Wence May](https://github.com/orgs/cross-species/people/Wence-May))
-- 邹鸿嘉([Wheelsmuggler](https://github.com/Wheelsmuggler))
+- 邹弘嘉([Wheelsmuggler](https://github.com/Wheelsmuggler))
 - 吴双([Yoyo Wu](https://github.com/orgs/cross-species/people/1054096100))
 - 雷雅婧([Rheaaaaayy](https://github.com/orgs/cross-species/people/Rheaaaaayy))
 - 魏如蓝([RulanWei](https://github.com/orgs/cross-species/people/RulanWei))
